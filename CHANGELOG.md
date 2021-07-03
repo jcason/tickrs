@@ -14,6 +14,13 @@ and `Removed`.
 
 ## [Unreleased]
 
+## [0.14.5] - 2021-05-07
+
+### Added
+
+- Improve graphing for penny stocks by showing 4 decimal places and removing y-axis
+  padding so they fill out the full graph
+
 ## [0.14.4] - 2021-03-17
 
 ### Packaging
